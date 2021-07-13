@@ -1,0 +1,19 @@
+Agenda for Mar. 28 2019
+
+
+Status 
+	- The StartMenu, CreateMenu, JoinMenu are done and be tested
+	- Most of the JsonOps class is done (waiting for the release of the server)
+	- PlayField is partially done
+	- Most people already did two pair programming sessions (need one more)
+
+Info
+	- Need to refactor the class to match with the decided code convention
+
+
+Decision
+	- Do we have to implement Aspect? Do we have enough time?
+
+
+Problem
+	- When will the server be released?

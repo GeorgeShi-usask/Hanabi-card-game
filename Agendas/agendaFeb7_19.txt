@@ -1,0 +1,29 @@
+Agenda - Feb 7, 2019
+Group H2 - CMPT 370
+
+
+Status
+	- Requirements Document has been completed and submitted
+	- Preliminary work on design has been started
+		- Have discussed the basic structures and decided on what data structures to use for the various things in our interfaces
+		- Have discussed how some things will function and how we will be implementing them
+		- Have discussed briefly some of our classes and functions
+		- Friday if we meet we will have to discuss further how to implement 
+			and what functions classes we will need and make decisions regarding that discussion
+		- Potentially using a pipe and filter architecture
+			- Using sub architecture for smaller pieces
+Inform
+
+Decide
+	- If we are meeting Friday
+		- If so, for how long
+		
+		- Tomorrow's class - he is going to be giving us more info on what the server does
+	- Monday the 25th - Amanda cannot make it to our scheduled meeting
+		- move meeting to what day?
+			- Tuesday at 2:30
+			- Thursday after lab period
+			- Friday at 4
+Solve
+	- What can we do if someone has to miss the lab meeting for a valid medical reason
+		- Maybe the TA does know what we can do

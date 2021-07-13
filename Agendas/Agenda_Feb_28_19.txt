@@ -1,0 +1,19 @@
+Agenda for Meeting Feb 28, 2019
+
+
+Status
+	- First Version of Class diagram is now posted on the repo
+	- Document containing write up for menu architecture is as well
+Inform
+Decide
+	- Current move making model seems clunky
+		- Replace with an interface and classes for player and AI
+		- Just initialize based on what is playing
+Solve
+	- Game Field part of program seems to have a weird architecture
+		- Kind of follows MVC
+		- We described it as Event Based
+		- Which should we use?
+			- If we want Event based, how to transition what we have over
+	- Time Function seems unnecessary
+		- Can it be replaced with an interface?

@@ -1,0 +1,26 @@
+Agenda for Mar. 21 2019
+
+
+
+Status
+	- First Pair programming sessions happening this week
+		- Status updates from each group
+			- A&B	
+			- S&Z
+			- J&G
+Information
+	- Twist has been announced
+		- Rainbow suit added
+		- Both extra suit and wild suit modes needed
+Decisions
+	- Implementation of rainbow suit in menus
+		- Dropdown menu?
+		- Radial buttons?
+	- Which JSON library
+		- Quick-JSON
+		- GSON
+Problems
+	
+
+Other Notes
+
